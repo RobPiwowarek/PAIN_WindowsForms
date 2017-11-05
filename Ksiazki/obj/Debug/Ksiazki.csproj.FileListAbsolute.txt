@@ -1,0 +1,11 @@
+C:\Users\SirAaron\Desktop\PAIN PROJECT\Ksiazki\Ksiazki\bin\Debug\Ksiazki.exe.config
+C:\Users\SirAaron\Desktop\PAIN PROJECT\Ksiazki\Ksiazki\bin\Debug\Ksiazki.exe
+C:\Users\SirAaron\Desktop\PAIN PROJECT\Ksiazki\Ksiazki\bin\Debug\Ksiazki.pdb
+C:\Users\SirAaron\Desktop\PAIN PROJECT\Ksiazki\Ksiazki\obj\Debug\Ksiazki.csprojResolveAssemblyReference.cache
+C:\Users\SirAaron\Desktop\PAIN PROJECT\Ksiazki\Ksiazki\obj\Debug\Ksiazki.Form1.resources
+C:\Users\SirAaron\Desktop\PAIN PROJECT\Ksiazki\Ksiazki\obj\Debug\Ksiazki.Properties.Resources.resources
+C:\Users\SirAaron\Desktop\PAIN PROJECT\Ksiazki\Ksiazki\obj\Debug\Ksiazki.csproj.GenerateResource.Cache
+C:\Users\SirAaron\Desktop\PAIN PROJECT\Ksiazki\Ksiazki\obj\Debug\Ksiazki.exe
+C:\Users\SirAaron\Desktop\PAIN PROJECT\Ksiazki\Ksiazki\obj\Debug\Ksiazki.pdb
+C:\Users\SirAaron\Desktop\PAIN PROJECT\Ksiazki\Ksiazki\obj\Debug\Ksiazki.Form2.resources
+C:\Users\SirAaron\Desktop\PAIN PROJECT\Ksiazki\Ksiazki\obj\Debug\Ksiazki.BookAddForm.resources
