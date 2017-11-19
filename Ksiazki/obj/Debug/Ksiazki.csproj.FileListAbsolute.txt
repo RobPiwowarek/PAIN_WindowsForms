@@ -9,3 +9,16 @@ C:\Users\SirAaron\Desktop\PAIN PROJECT\Ksiazki\Ksiazki\obj\Debug\Ksiazki.exe
 C:\Users\SirAaron\Desktop\PAIN PROJECT\Ksiazki\Ksiazki\obj\Debug\Ksiazki.pdb
 C:\Users\SirAaron\Desktop\PAIN PROJECT\Ksiazki\Ksiazki\obj\Debug\Ksiazki.Form2.resources
 C:\Users\SirAaron\Desktop\PAIN PROJECT\Ksiazki\Ksiazki\obj\Debug\Ksiazki.BookAddForm.resources
+C:\Users\T540p\Desktop\PAIN_WindowsForms-master\Ksiazki\bin\Debug\Ksiazki.exe.config
+C:\Users\T540p\Desktop\PAIN_WindowsForms-master\Ksiazki\bin\Debug\Ksiazki.exe
+C:\Users\T540p\Desktop\PAIN_WindowsForms-master\Ksiazki\bin\Debug\Ksiazki.pdb
+C:\Users\T540p\Desktop\PAIN_WindowsForms-master\Ksiazki\obj\Debug\Ksiazki.g.resources
+C:\Users\T540p\Desktop\PAIN_WindowsForms-master\Ksiazki\obj\Debug\Ksiazki.CategoryControl.resources
+C:\Users\T540p\Desktop\PAIN_WindowsForms-master\Ksiazki\obj\Debug\Ksiazki.BookAddForm.resources
+C:\Users\T540p\Desktop\PAIN_WindowsForms-master\Ksiazki\obj\Debug\Ksiazki.Properties.Resources.resources
+C:\Users\T540p\Desktop\PAIN_WindowsForms-master\Ksiazki\obj\Debug\Ksiazki.csproj.GenerateResource.Cache
+C:\Users\T540p\Desktop\PAIN_WindowsForms-master\Ksiazki\obj\Debug\Ksiazki.exe
+C:\Users\T540p\Desktop\PAIN_WindowsForms-master\Ksiazki\obj\Debug\Ksiazki.pdb
+C:\Users\T540p\Desktop\PAIN_WindowsForms-master\Ksiazki\obj\Debug\Ksiazki.csprojResolveAssemblyReference.cache
+C:\Users\T540p\Desktop\PAIN_WindowsForms-master\Ksiazki\obj\Debug\Ksiazki.BooksForm.resources
+C:\Users\T540p\Desktop\PAIN_WindowsForms-master\Ksiazki\obj\Debug\Ksiazki.MainForm.resources
